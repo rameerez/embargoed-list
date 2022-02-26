@@ -9,9 +9,9 @@ This is the message that gets displayed:
 </p>
 
 
-# Find your version here
-
 Contributors are building versions of `embargoed` for several programming languages and frameworks. If you don't see your platform here please consider building a port and opening a pull request to add it to the list!
+
+# Find your version here
 
  - 💎 **Ruby on Rails**: `embargoed` gem [[👉 install instructions & repo here](https://github.com/rameerez/embargoed)] by [@rameerez](https://twitter.com/rameerez)
 
@@ -19,7 +19,7 @@ Contributors are building versions of `embargoed` for several programming langua
  - 🐍 **Python Django**: `django-embargoed` pip package [[👉 install instructions & repo here](https://github.com/ronaldlangeveld/django-embargoed)] by [@ronaldlangeveld](https://twitter.com/ronaldlangeveld)
 
 
+ - 👨‍🎤 **PHP Composer**: `gdelacc/embargoed-composer` Composer package [[👉 install instructions & repo here](https://github.com/gdelacc/embargoed-composer)] by [@gdelacc](https://github.com/gdelacc)
+ 
+ 
  - **Wordpress plugin** (in progress)
-
-
- - **Composer package** (in progress)
