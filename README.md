@@ -22,4 +22,4 @@ Contributors are building versions of `embargoed` for several programming langua
  - 👨‍🎤 **PHP Composer**: `gdelacc/embargoed-composer` Composer package [[👉 install instructions & repo here](https://github.com/gdelacc/embargoed-composer)] by [@gdelacc](https://github.com/gdelacc)
  
  
- - **Wordpress plugin** (in progress)
+ - 📝 **Wordpress plugin**: `wp-embargoed` Wordpress plugin [[👉 install instructions & repo here](https://github.com/pretzelhands/wp-embargoed)] by [@pretzelhands](https://twitter.com/pretzelhds)
