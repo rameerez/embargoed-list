@@ -28,6 +28,7 @@ Contributors are building versions of `embargoed` for several programming langua
 
  - 🌩 **Cloudflare Worker:** `embargoed-cloudflare-worker` Worker set up instructions  [[👉 install instructions & repo here](https://github.com/JulienMelissas/embargoed-cloudflare-worker)] by [@julienmelissas](https://twitter.com/julienmelissas)
 
+ - 💼 **ASP.NET:** `Embargoed.AspNetCore` Nuget package [[👉 install instructions & repo here](https://github.com/TobbenTM/Embargoed.Net)] by [@tobbentm](https://github.com/TobbenTM)
 
 # How to contribute
 
