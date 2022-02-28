@@ -28,6 +28,8 @@ Contributors are building versions of `embargoed` for several programming langua
 
  - 🌩 **Cloudflare Worker:** `embargoed-cloudflare-worker` Worker set up instructions  [[👉 install instructions & repo here](https://github.com/JulienMelissas/embargoed-cloudflare-worker)] by [@julienmelissas](https://twitter.com/julienmelissas)
 
+ - 📦 **Express.js:** `express-embargoed` middleware package [[👉 install instructions & repo here]https://github.com/cba85/express-embargoed)] by [@cba85](https://github.com/cba85)
+
 
 # How to contribute
 
