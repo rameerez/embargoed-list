@@ -9,7 +9,7 @@ This is the message that gets displayed:
 </p>
 
 
-Contributors are building versions of `embargoed` for several programming languages and frameworks. If you don't see your platform here please consider building a port and opening a pull request to add it to the list!
+Contributors are building versions of `embargoed` for several programming languages and frameworks. If you don't see your platform here please consider building a port and opening a pull request to add it to the list! Instructions below.
 
 # Find your version here
 
@@ -27,3 +27,18 @@ Contributors are building versions of `embargoed` for several programming langua
  - 📦 **Laravel Package:** `laravel-embargoed` Laravel package  [[👉 install instructions & repo here](https://github.com/pretzelhands/laravel-embargoed)] by [@pretzelhds](https://twitter.com/pretzelhds)
 
  - 🌩 **Cloudflare Worker:** `embargoed-cloudflare-worker` Worker set up instructions  [[👉 install instructions & repo here](https://github.com/JulienMelissas/embargoed-cloudflare-worker)] by [@julienmelissas](https://twitter.com/julienmelissas)
+
+
+# How to contribute
+
+If you want to make a port to implement a version of Embargoed in any platform that's not listed above, please go ahead!
+
+The HTML to display can be found at [`/embargoed.html`](embargoed.html)
+
+You might need a **GeoIP database** that you're allowed to distribute along with your package. Here's the one most ports use: [`geoacumen/geoacumen-country`](https://github.com/geoacumen/geoacumen-country).
+
+The `mmdb` can be dowloaded from [here](https://github.com/geoacumen/geoacumen-country/blob/master/Geoacumen-Country.mmdb). It's under an Apache2 license, so you're free to redistribute it along with your package as long as you include its Apache2 license along with it.
+
+When you've finished implementing your port, please make it available as a public GitHub repo under a permissive Open Source license, like the MIT license.
+
+Then just make a Pull Request to this list to get it added. I'll merge it ASAP.
