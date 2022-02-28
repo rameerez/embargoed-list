@@ -30,7 +30,6 @@ Contributors are building versions of `embargoed` for several programming langua
 
  - 📦 **Express.js:** `express-embargoed` middleware package [[👉 install instructions & repo here]https://github.com/cba85/express-embargoed)] by [@cba85](https://github.com/cba85)
 
-
 # How to contribute
 
 If you want to make a port to implement a version of Embargoed in any platform that's not listed above, please go ahead!
