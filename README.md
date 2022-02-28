@@ -26,4 +26,4 @@ Contributors are building versions of `embargoed` for several programming langua
  
  - 📦 **Laravel Package:** `laravel-embargoed` Laravel package  [[👉 install instructions & repo here](https://github.com/pretzelhands/laravel-embargoed)] by [@pretzelhds](https://twitter.com/pretzelhds)
 
- - 🌩 **Cloudflare Worker:** `embargoed-cloudflare-worker` Worker instructions  [[👉 install instructions & repo here](https://github.com/JulienMelissas/embargoed-cloudflare-worker)] by [@julienmelissas](https://twitter.com/julienmelissas)
+ - 🌩 **Cloudflare Worker:** `embargoed-cloudflare-worker` Worker set up instructions  [[👉 install instructions & repo here](https://github.com/JulienMelissas/embargoed-cloudflare-worker)] by [@julienmelissas](https://twitter.com/julienmelissas)
