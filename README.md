@@ -31,7 +31,7 @@ Contributors are building versions of `embargoed` for several programming langua
  - 🌩 **Cloudflare Worker:** `embargoed-cloudflare-worker` Worker set up instructions  [[👉 install instructions & repo here](https://github.com/JulienMelissas/embargoed-cloudflare-worker)] by [@julienmelissas](https://twitter.com/julienmelissas)
 
 
- - 🚀 **Rust/Rocket**: `embargoed` library [[👉 install instructions & repo here](https://github.com/lily-mosquitoes/embargoed-rust) by [@lily-mosquitoes](https://github.com/lily-mosquitoes)
+ - 🚀 **Rust/Rocket**: `embargoed` library [[👉 install instructions & repo here](https://github.com/lily-mosquitoes/embargoed-rust)] by [@lily-mosquitoes](https://github.com/lily-mosquitoes)
 
 
 # How to contribute
