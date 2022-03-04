@@ -20,15 +20,20 @@ Contributors are building versions of `embargoed` for several programming langua
 
 
  - 👨‍🎤 **PHP Composer**: `gdelacc/embargoed-composer` Composer package [[👉 install instructions & repo here](https://github.com/gdelacc/embargoed-composer)] by [@gdelacc](https://github.com/gdelacc)
- 
- 
+
+
  - 📝 **WordPress Plugin**: `wp-embargoed` Wordpress plugin [[👉 install instructions & repo here](https://github.com/pretzelhands/wp-embargoed)] by [@pretzelhds](https://twitter.com/pretzelhds)
- 
+
+
  - 📦 **Laravel Package:** `laravel-embargoed` Laravel package  [[👉 install instructions & repo here](https://github.com/pretzelhands/laravel-embargoed)] by [@pretzelhds](https://twitter.com/pretzelhds)
+
 
  - 🌩 **Cloudflare Worker:** `embargoed-cloudflare-worker` Worker set up instructions  [[👉 install instructions & repo here](https://github.com/JulienMelissas/embargoed-cloudflare-worker)] by [@julienmelissas](https://twitter.com/julienmelissas)
 
  - 💼 **ASP.NET:** `Embargoed.AspNetCore` Nuget package [[👉 install instructions & repo here](https://github.com/TobbenTM/Embargoed.Net)] by [@tobbentm](https://github.com/TobbenTM)
+
+ - 🚀 **Rust/Rocket**: `embargoed` library [[👉 install instructions & repo here](https://github.com/lily-mosquitoes/embargoed-rust)] by [@lily-mosquitoes](https://github.com/lily-mosquitoes)
+
 
 # How to contribute
 
